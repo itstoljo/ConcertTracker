@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "38pFwZhGUEc=",
+  "success": true,
+  "projectFilePath": "D:\\VISUAL STUDIO PROJECTS\\ConcertTracker(Spectre)\\ConcertTracker(Spectre)\\ConcertTracker(Spectre).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

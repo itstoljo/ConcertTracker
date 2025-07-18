@@ -1,0 +1,17 @@
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).csproj.AssemblyReference.cache
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).AssemblyInfoInputs.cache
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).AssemblyInfo.cs
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\ConcertTracker(Spectre).exe
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\ConcertTracker(Spectre).deps.json
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\ConcertTracker(Spectre).runtimeconfig.json
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\ConcertTracker(Spectre).dll
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\ConcertTracker(Spectre).pdb
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\bin\Debug\net9.0\Spectre.Console.dll
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertT.9CD0570A.Up2Date
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).dll
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\refint\ConcertTracker(Spectre).dll
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).pdb
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ConcertTracker(Spectre).genruntimeconfig.cache
+D:\VISUAL STUDIO PROJECTS\ConcertTracker(Spectre)\ConcertTracker(Spectre)\obj\Debug\net9.0\ref\ConcertTracker(Spectre).dll
